@@ -37,7 +37,7 @@ Its operational workflow is:
 
 Pre-release builds are distributed through GitHub Releases.
 
-Current release: **DBACHECK2 0.9.0 RC1 for Windows x64**
+Current release: **DBACHECK2 0.9.0 RC2 for Windows x64**
 
 See the Releases section of this repository.
 
